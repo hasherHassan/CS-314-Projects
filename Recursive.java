@@ -1,24 +1,3 @@
-/*  Student information for assignment:
- *
- *  On MY honor, Hasher,
- *  this programming assignment is MY own work
- *  and I have not provided this code to any other student.
- *
- *  Number of slip days used: 0
- *
- *  Student 1 (Student whose Canvas account is being used): Hasher Hassan
- *  UTEID: hmh3233
- *  email address: hmh3233@my.utexas.edu
- *  Grader name: Jason Oh
- *  Section number: 55010
- *
- *  Student 2
- *  UTEID:
- *  email address:
- *
- */
-
-
 //imports
 
 import java.awt.Color;
